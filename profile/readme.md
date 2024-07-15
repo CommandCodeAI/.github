@@ -1,4 +1,4 @@
-![langbase](https://github.com/LangbaseInc/.github/blob/main/.github/Cover/langbase.png?raw=true)
+![logo-cover](https://github.com/user-attachments/assets/826b0071-67e3-4048-a1a6-ea6ea6d56e18)
 
 # Langbase
 
