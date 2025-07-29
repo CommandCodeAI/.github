@@ -25,7 +25,7 @@ Build, deploy, and scale serverless AI agents with tools and memory (RAG). Simpl
 | [Tools](https://langbase.com/docs/tools) | Pre-built and hosted tools for AI agents like web crawler and web search with Exa |
 | [AI Studio](https://langbase.com/studio) | Langbase studio is your playground to build, collaborate, and deploy AI agents. Experiment on your agent changes and memory retrieval in real-time, with real data, store messages, version your prompts, optimize cost, see usage, and traces. Access [Langbase Studio](https://studio.langbase.com).<br><br>A complete AI developers platform.<br><br>- **Collaborate**: Invite all team members to collaborate on the pipe. Build AI together.<br>- **Developers & Stakeholders**: Work with all your R&D team, engineering, product, GTM (marketing and sales). It's like a powerful version of GitHub x Google Docs for AI. |
 
-## 🌟 Open Source Projects
+## Open Source Projects
 
 We also developed experimental open source local first web AI frameworks and tools.
 
