@@ -31,7 +31,7 @@ We also developed experimental open source local first web AI frameworks and too
 
 | Project | Description |
 |---------|-------------|
-| **⌘ Langbase SDK**<br>*Cloud AI Primitives SDK* | TypeScript SDK for building declarative, composable AI agents, apps, and products. 600 LLMs supported on a unified API, streaming, workflows, Auto RAG, memory management and serverless deployments.<br><br>**Links:** [Docs](https://langbase.com/docs/sdk) • [GitHub](https://github.com/LangbaseInc/langbase-sdk) • [npm](https://www.npmjs.com/package/langbase) |
+| **⌘ Langbase SDK**<br>*AI Primitives SDK* | TypeScript SDK for building declarative, composable AI agents, apps, and products. 600 LLMs supported on a unified API, streaming, workflows, Auto RAG, memory management and serverless deployments.<br><br>**Links:** [Docs](https://langbase.com/docs/sdk) • [GitHub](https://github.com/LangbaseInc/langbase-sdk) • [npm](https://www.npmjs.com/package/langbase) |
 | **🎨 LangUI**<br>*AI UI Components* | 60+ free Tailwind components for AI/LLM projects. Copy-paste ready, dark/light modes, zero dependencies.<br><br>**Links:** [Website](https://www.langui.dev/) • [GitHub](https://github.com/LangbaseInc/langui) |
 | **🚀 BaseAI**<br>*TypeScript AI Framework* | The first TypeScript AI Framework for serverless autonomous agents with memory and tools. Local-first (ollama based) development, one-command deployment, JavaScript and TypeScript friendly.<br><br>**Links:** [Website](https://baseai.dev/) • [GitHub](https://github.com/LangbaseInc/BaseAI) • [npm](https://www.npmjs.com/package/baseai) |
 
@@ -40,8 +40,6 @@ We also developed experimental open source local first web AI frameworks and too
 #### Langbase SDK
 ```bash
 npm install langbase
-# or
-yarn add langbase
 ```
 Next up, check the [SDK docs](https://langbase.com/docs/sdk) or [API reference](https://langbase.com/docs/api-reference).
 
