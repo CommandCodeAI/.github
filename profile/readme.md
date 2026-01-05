@@ -1,6 +1,23 @@
+![CommandCode](https://github.com/user-attachments/assets/7d42d159-f8fe-4446-ae3b-08721100ed3a)
+
+# Command Code AI
+
+Command Code with your taste; the first coding agent that observes how you write code and adapts to your preferences over time using our `taste-1` meta neuro-symbolic AI model architecture. 
+
+Read more at [CommandCode.ai](https://commandcode.ai)
+
+```sh
+npm i -g command-code@latest
+```
+
+For more please check out [developer docs](https://commandcode.ai/docs) →
+
+
+Before rebranding as Command Code, we were Langbase. 
+
 ![logo-cover](https://github.com/LangbaseInc/docs-images/blob/main/design/cover/github.jpg?raw=true)
 
-# Langbase — Composable & Serverless AI Developer Cloud
+## Langbase — AI Developer Cloud
 
 Langbase is the most powerful serverless AI cloud for building and deploying AI agents.
 
@@ -13,6 +30,7 @@ Build, deploy, and scale serverless AI agents with tools and memory (RAG). Simpl
 
 | Products | Description |
 |----------|-------------|
+| [CommandCode.ai](https://commandcode.ai) | Command Code with your taste; the first coding agent that observes how you write code and adapts to your preferences over time using our `taste-1` meta neuro-symbolic AI model architecture. |
 | [Command.new](https://command.new) | Vibe code any AI agent. Command turns prompts into prod-ready agents |
 | [Pipe Agents](https://langbase.com/docs/pipe) | Pipes are a standard way to build serverless AI agents with tools and memory |
 | [AI Memory](https://langbase.com/docs/memory) | Auto RAG AI primitive for agents to give them human like long-term memory |
