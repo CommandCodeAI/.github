@@ -12,7 +12,12 @@ npm i -g command-code@latest
 
 For more please check out [developer docs](https://commandcode.ai/docs) →
 
+For feedback and issues, please report in the [`command-code`](https://github.com/CommandCodeAI/command-code) repo
 
+<details>
+ <summary>_</summary>
+
+  
 Before rebranding as Command Code, we were Langbase. 
 
 ![logo-cover](https://github.com/LangbaseInc/docs-images/blob/main/design/cover/github.jpg?raw=true)
@@ -96,3 +101,5 @@ We are the only composable and serverless AI cloud for developers. That's all we
 [![LangUI Stars](https://img.shields.io/github/stars/LangbaseInc/langui?style=social)](https://github.com/LangbaseInc/langui)
 [![BaseAI Stars](https://img.shields.io/github/stars/LangbaseInc/BaseAI?style=social)](https://github.com/LangbaseInc/BaseAI)
 [![SDK Stars](https://img.shields.io/github/stars/LangbaseInc/langbase-sdk?style=social)](https://github.com/LangbaseInc/langbase-sdk)
+
+</details>
