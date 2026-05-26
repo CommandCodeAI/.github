@@ -15,6 +15,8 @@ npm i -g command-code
 ```
 
 For more please check out [developer docs](https://commandcode.ai/docs) →
+
 Join our community on [Command Code Discord server](https://commandcode.ai/discord)
+
 For feedback and issues, please report in the [`command-code`](https://github.com/CommandCodeAI/command-code) repo
 
