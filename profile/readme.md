@@ -1,4 +1,6 @@
-![CommandCode](https://github.com/user-attachments/assets/7d42d159-f8fe-4446-ae3b-08721100ed3a)
+
+<a href="https://commandcode.ai"><img width="2440" height="1280" alt="image" src="https://github.com/user-attachments/assets/5ce5221f-10b1-4f9a-9a33-712cd5fce722" /></a>
+
 
 # Command Code AI
 
